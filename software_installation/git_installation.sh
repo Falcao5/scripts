@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Git installation
+
 # ref: https://linuxize.com/post/how-to-install-git-on-raspberry-pi/
 # prerequisite: you must be logged in with a user with sudo power.
 
