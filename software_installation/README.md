@@ -9,3 +9,5 @@ This script allows you to install FTP server, creating a linux user who can acce
 Installs git (latest version) on system. Uses apt.
 ### mysql_installation.sh
 This script will install mysql server and client on your system. After installation, this will configure mysql to be accessible from everywhere (not only localhost). Will be created a database, and a user with all permissions on that database.
+### setup-openjdk8.sh
+This script will install openjdk-8 on your system. Uses apt.
